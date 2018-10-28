@@ -30,13 +30,14 @@ The picture below is a screenshot of hybrid app.
 ---
 
 The chart below is comparison of three Apps.
-| Type        | Native App | Web App | Hybrid App |
-| --------   | -----  | -----  | ----- |
-| Size     | Big | Small | Small |
-| Technologies        |   Back-end   |   Front-end   | Front-end|
-| Access to local        |    Easy    |  Hard  | Easy|
-| Access to hardware | Easy | Hard | Easy |
-| User Experience (normally) | Extreme | Not bad | Good |
+
+Type|Native App|Web App|Hybrid App
+-----|-----|-----|-----
+Size|Big|Small|Small
+Technologies|Back-end|Front-end|Front-end
+Access to local|Easy|Hard|Easy
+Access to hardware|Easy|Hard|Easy
+User Experience (normally)|Extreme|Not bad|Good
 
   [1]: http://www.diving-fish.com/pics/apps/1.png
   [2]: http://www.diving-fish.com/pics/apps/2.png
