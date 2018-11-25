@@ -1,7 +1,7 @@
 {
   "name": "wordladder",
   "version": "1.0.0",
-  "description": "Word Ladder Remaked by Vue.js",
+  "description": "wordladder",
   "author": "Diving_Fish",
   "private": true,
   "scripts": {

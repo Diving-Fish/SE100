@@ -1,6 +1,6 @@
 # wordladder
 
-> Word Ladder Remaked by Vue.js
+> wordladder
 
 ## Build Setup
 
